@@ -10,7 +10,7 @@
 "email" "altuntaselim@gamil.com"
 }
 ]
-"autoload":{
+"autoload"{
 "prs-4":{
 "paketim\\paketismim\\":"src/"
 }
