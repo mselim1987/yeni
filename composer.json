@@ -1,0 +1,19 @@
+{
+"name":"paketim/paketismim",
+"description":"githup test paketim.",
+"keywords":["test","laravel","model dosyası"],
+"licanse":"MIT",
+"authors":[
+{
+"name": "Selim ALTUNTAŞ"
+"email": "altuntaselim@gamil.com"
+}
+]
+"autoload":{
+"prs-4":{
+"paketim\\paketismim\\":"src/"
+}
+},
+"version"  :  "1.0.0",
+"minimum-stability" : "dev
+}
