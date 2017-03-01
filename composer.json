@@ -3,7 +3,8 @@
 "description":"githup test paketim.",
 "keywords":["test","laravel","model dosyası"],
 "licanse":"MIT",
-"authors":[
+"authors":
+  [
 {
 "name": "Selim ALTUNTAŞ"
 "email": "altuntaselim@gamil.com"
